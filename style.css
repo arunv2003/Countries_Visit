@@ -159,4 +159,9 @@ a {
         flex-direction: column;
         
     }
+    .search-container{
+        display: flex;
+        align-items: center;
+        
+    }
 }
